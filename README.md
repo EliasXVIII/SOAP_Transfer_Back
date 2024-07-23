@@ -1,5 +1,10 @@
 # Servicio SOAP para implementar WS-Security
 
+![CSHARP](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Visual](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Windows11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+
 ## Nombre del Software: Servicio de Archivo Seguro con SOAP
 Descripción General: Este software proporciona un servicio para la carga y descarga de archivos con encriptación y desencriptación utilizando el estándar SOAP. Los archivos se almacenan de manera segura en el servidor utilizando el cifrado AES-256. La aplicación permite a los usuarios subir y bajar archivos de manera segura, asegurando que los datos en tránsito y en reposo estén protegidos.
 
