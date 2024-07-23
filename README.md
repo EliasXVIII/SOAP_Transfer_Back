@@ -8,6 +8,9 @@
 ## Nombre del Software: Servicio de Archivo Seguro con SOAP
 Descripción General: Este software proporciona un servicio para la carga y descarga de archivos con encriptación y desencriptación utilizando el estándar SOAP. Los archivos se almacenan de manera segura en el servidor utilizando el cifrado AES-256. La aplicación permite a los usuarios subir y bajar archivos de manera segura, asegurando que los datos en tránsito y en reposo estén protegidos.
 
+<p align="center">
+  <img src="https://github.com/EliasXVIII/SOAP_Transfer_Back/blob/main/Documento_Encrypt256.PNG" alt="Encrypt" style="margin: auto; width: 800px;">
+</p>
 
 ## Arquitectura del Programa
 FileService.cs:
@@ -20,6 +23,9 @@ Configura y arranca la aplicación, incluyendo la configuración del servicio SO
 FileEncryptionService.csproj:
 Archivo de proyecto que define las dependencias y configuraciones del proyecto .NET.
 
+<p align="center">
+  <img src="https://github.com/EliasXVIII/SOAP_Transfer_Back/blob/main/Server_Run.PNG" alt="RunServer" style="margin: auto; width: 800px;">
+</p> 
 
 ## Guía Básica de Uso
 Subir un Archivo:
