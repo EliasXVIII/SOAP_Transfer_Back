@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bC0NpWRWCby4uZmpMIZxW47PW8FTUyVzJw088w4I7Uw=",
+  "Source": "FileEncryptionService",
+  "BasePath": "_content/FileEncryptionService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
