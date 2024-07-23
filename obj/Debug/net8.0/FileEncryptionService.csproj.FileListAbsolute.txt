@@ -45,3 +45,4 @@ C:\Users\BIRIANEJ\FileEncryptionService\bin\Debug\net8.0\FileEncryptionService.r
 C:\Users\BIRIANEJ\FileEncryptionService\bin\Debug\net8.0\FileEncryptionService.pdb
 C:\Users\BIRIANEJ\FileEncryptionService\obj\Debug\net8.0\FileEncryptionService.genruntimeconfig.cache
 C:\Users\BIRIANEJ\FileEncryptionService\obj\Debug\net8.0\ref\FileEncryptionService.dll
+C:\Users\BIRIANEJ\FileEncryptionService\obj\Debug\net8.0\FileEncryptionService.sourcelink.json
