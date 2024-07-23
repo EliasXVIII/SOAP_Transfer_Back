@@ -94,3 +94,7 @@ Postman: Para realizar pruebas de API y verificar que la seguridad esté funcion
 ## 5. Tecnologías y Soluciones Recomendadas
 Microsoft.IdentityModel.Tokens: Para manejar tokens de seguridad y validación de firmas en tus aplicaciones C#.
 X.509 Certificates: Utiliza certificados X.509 para firmar y cifrar mensajes SOAP.
+
+### Autor: Elías Javier Riquelme
+
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) - [Elias Javier Riquelme](https://www.linkedin.com/in/elias-javier-riquelme-b62655297/)
